@@ -34,7 +34,7 @@ An issue that soon emerged (and that was a critical failing point of the project
 > 
 > ![image alt ><](/images/data-plot-example.png)
 
-# Conclusion and The Future
+# The Future
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While these functionalities were nice to have, I wanted to continue to scale this operation, and for a few reasons this framework wasn't viable.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For one, I could only see the data for cards that I manually chose to track, and even once I chose to start tracking a card, I couldn't see any data from before I made that choice. In addition, I only had a scraper for Card Kingdom's Buylist, while there are a variety of other important buylists and marketplaces. In order to make informed and agile investment decisions, I needed access to as much data as possible for as many cards as possible. In other words, I needed a more efficient mass scraping tool that could be implemented across many different sources, and a centralized storage system for this massive amount of data.
@@ -44,4 +44,5 @@ An issue that soon emerged (and that was a critical failing point of the project
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My solution? A remotely hosted database server, as implemented in [my next project](https://coltonglasgow13.github.io/mtg_goose/ "mtg-goose").
 
+# Conclusion
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project was my introduction to data collection and analysis, and although it didn't end up being sustainable, it showed me the world of opportunity brought by these fields. It was incredible to see price data for the cards I chose pop up on the screen in front of me, and to be able to clearly see a price history for cards. There are existing resources that attempt to replicate this (ex. [MTGStocks](https://www.mtgstocks.com/news "MTGStocks")), but they are generally flawed for a variety of reasons. This was an untapped market, and I was eager to explore it in the future.
