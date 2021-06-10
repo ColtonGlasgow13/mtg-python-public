@@ -1,3 +1,8 @@
+## Navigation
+[**Home**](https://coltonglasgow13.github.io/ "Homepage")
+
+[**Next Project**](https://coltonglasgow13.github.io/mtg_goose/ "mtg-goose")
+
 # Summary
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Collectible card games such as Magic the Gathering or the Pokemon Trading Card Game have been a longtime hobby of mine, but they were very expensive as a kid with no income. Therefore, I developed a basic application integrating Python's data collection and visualization and Google Sheets' data storage to track the prices of cards I was interested in and notify me when they passed certain thresholds.
   
