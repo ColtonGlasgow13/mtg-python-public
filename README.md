@@ -1,6 +1,5 @@
 ## Navigation
 [**Home**](https://coltonglasgow13.github.io/ "Homepage")
-
 [**Next Project**](https://coltonglasgow13.github.io/mtg_goose/ "mtg-goose")
 
 # Summary
