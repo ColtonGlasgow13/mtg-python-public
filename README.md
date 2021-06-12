@@ -22,7 +22,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Using the [Google Sheets API](https://developers.google.com/sheets/api "Google Sheets API"), I integrated a spreadsheet with a small Python application. On one sheet I could manually list the cards I wanted to track the price of, which python could then read and then use to scrape the desired prices. After it goes to the website and gets each price, it would enter this data into another sheet.
 
-> An example of data collected for a Magic: the Gathering card named "Glorybringer" over two days.
+> An example of data collected for a Magic: the Gathering card named "Glorybringer" over multiple days.
 > 
 > ![image alt ><](/images/scraper-screenshot-2.png)
 
