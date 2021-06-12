@@ -1,5 +1,5 @@
 ## Navigation
-[**Home**](https://coltonglasgow13.github.io/ "Homepage")&nbsp;&nbsp;&nbsp;&nbsp;|||&nbsp;&nbsp;&nbsp;&nbsp;[**Next Project**](https://coltonglasgow13.github.io/mtg_goose/ "mtg-goose")
+[**Home**](https://coltonglasgow13.github.io/ "Homepage")&nbsp;&nbsp;&nbsp;&nbsp;|||&nbsp;&nbsp;&nbsp;&nbsp;[**Next Project**](https://coltonglasgow13.github.io/mtg-goose-public/ "mtg-goose")
 
 # Summary
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Collectible card games such as Magic the Gathering or the Pokemon Trading Card Game have been a longtime hobby of mine, but they were very expensive as a kid with no income. Therefore, I developed a basic application integrating Python's data collection and visualization and Google Sheets' data storage to track the prices of cards I was interested in and notify me when they passed certain thresholds.
@@ -45,7 +45,7 @@ An issue that soon emerged (and that was a critical failing point of the project
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There are at least 40,000 individual Magic: the Gathering cards, and if I wanted to take daily data from multiple sources for all of them, Google Sheets would never cut it. In addition, I was tired of needing to run the scraper myself on my computer, because even if I scheduled the program, when my personal laptop was off data couldn't be collected. This lead to inconsistent data with too much need for manual operation.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My solution? A remotely hosted database server, as implemented in [my next project](https://coltonglasgow13.github.io/mtg_goose/ "mtg-goose").
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My solution? A remotely hosted database server, as implemented in [my next project](https://coltonglasgow13.github.io/mtg-goose-public/ "mtg-goose").
 
 # Conclusion
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project was my introduction to data collection and analysis, and although it didn't end up being sustainable, it showed me the world of opportunity brought by these fields. It was incredible to see price data for the cards I chose pop up on the screen in front of me, and to be able to clearly see a price history for cards. There are existing resources that attempt to replicate this (ex. [MTGStocks](https://www.mtgstocks.com/news "MTGStocks")), but they are generally flawed for a variety of reasons. This was an untapped market, and I was eager to explore it in the future.
